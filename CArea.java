@@ -10,7 +10,8 @@ import java.util.List;
 
 /**
  *
- * @author Tatiana
+ * @author Janeth
+ * realizando cambios
  */
 public class CArea {
 
