@@ -11,6 +11,7 @@ import java.util.List;
 /**
  *
  * @author Janeth
+ * @author Viviana
  * realizando cambios
  */
 public class CArea {
